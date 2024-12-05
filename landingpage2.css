@@ -8,16 +8,17 @@ h3 {
 }
 
 #Select{
-    font-size: 200;
     text-align: center;
 }
 
 #Pilihan{
+    font-size: large;
     background-color: white;
     border: none;
 }
 
 #Tampilkan{
+    font-size: large;
     background-color: orange;
     color: white;
     border: none;
@@ -41,4 +42,3 @@ h3 {
     display: flex;
     justify-content: space-between;
 }
-
