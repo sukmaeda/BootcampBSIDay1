@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(204, 255, 229);
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+#Select{
+    font-size: 200;
+    text-align: center;
+}
+
+#Pilihan{
+    background-color: white;
+    border: none;
+}
+
+#Tampilkan{
+    background-color: orange;
+    color: white;
+    border: none;
+}
+
+.card{
+    text-align: center;
+    background-color: white;
+    color: black;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+
+.title{
+    color: black;
+}
+
+#cardParent{
+    display: flex;
+    justify-content: space-between;
+}
+

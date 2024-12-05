@@ -1,0 +1,42 @@
+h2 {
+    color: green;
+}
+
+.card{
+    background-color: rgb(174, 174, 219);
+    color: rgb(208, 85, 85);
+    margin: 90px;
+    border-radius: 20px;
+    padding: 20px 50px 10px 5px;
+}
+
+.form-container{
+    background-color: white;
+}
+
+.form{
+    background-color: lightblue;
+    padding: 30px;
+}
+
+.title{
+    color: red;
+}
+
+h3{
+    color: aqua;
+}
+
+#idTitle{
+    color: orange;
+}
+
+#cardParent{
+    display: flex;
+    justify-content: space-between;
+}
+
+#card2{
+    position: position;
+    bottom: 60px;
+}
